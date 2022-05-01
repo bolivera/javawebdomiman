@@ -9,5 +9,25 @@
     </head>
     <body>
         <%@include file="header/header.jsp" %>
+        <section>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner" role="listbox">
+                    <section class=" pb-5">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-8 mx-auto text-center mb-5">
+                                    <h2 class="text-uppercase">Lo más reciente</h2>
+                                    <p class="lead text-muted">Inspirados en tu comodidad y gustos por el cuero de calidad con lo
+                                        último en tendencia al mejor precio..</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </section>
+        <%@include file="footer/footer.jsp" %>
     </body>
 </html>

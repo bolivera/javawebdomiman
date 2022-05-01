@@ -7,7 +7,7 @@
                         <li class="list-inline-item pr-3 mr-0">
                             <a href="#"  class="text-gray-900" target="_blank">
                                 <i class="icofont-whatsapp"></i>
-                                955 362 625
+                                000 000 000
                             </a>
                         </li>
                         <li class="list-inline-item px-3 border-left d-none d-lg-inline-block d-xl-inline-block">Envío gratis en pedidos
@@ -18,21 +18,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-sm-4 d-none d-flex justify-content-end redes">
-                    <ul class="list-inline m-0 p-0">
-                        <li class="list-inline-item">
-                            <a class="text-muted text-hover-primary" href="https://www.facebook.com/domiman.pe" target="_blank"
-                               title="facebook"><i class="icofont-facebook"></i></a>
-                        </li>
 
-                        <li class="list-inline-item">
-                            <a class="text-muted text-hover-primary" href="https://www.instagram.com/domiman.pe/?hl=es-la" target="_blank"
-                               title="instagram"><i class="icofont-instagram"></i>
-                            </a>
-                        </li>
-                    </ul>
-
-                </div>
             </div>
         </div>
     </div>
@@ -41,7 +27,7 @@
     <nav class="navbar navbar-expand-lg bg-transparent navbar-light navbar-airy bg-fixed-white">
         <div class="container-fluid">
             <!-- Navbar Header  -->
-            <a class="navbar-brand" href="{{url('/')}}">
+            <a class="navbar-brand" href="/">
                 <img src="assets/img/logo.svg" width="180">
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -90,8 +76,7 @@
             </div>
         </div>
     </nav>
-    <!-- /Navbar -->
-    <!-- Fullscreen search area-->
+
     <div class="search-area-wrapper">
         <div class="search-area d-flex align-items-center justify-content-center">
             <div class="close-btn">
@@ -111,5 +96,4 @@
             </div>
         </div>
     </div>
-    <!-- /Fullscreen search area-->
 </header>
